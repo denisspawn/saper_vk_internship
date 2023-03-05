@@ -1,0 +1,16 @@
+{
+  "name": "saper",
+  "version": "1.0.0",
+  "description": "Saper",
+  "main": "gulpfile.js",
+  "type": "module",
+  "author": "vect0r",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.27.12",
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
